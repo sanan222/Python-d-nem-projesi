@@ -74,5 +74,6 @@ Output (Answer of the question):
 
 Code fractions:
 
-![code 2](https://user-images.githubusercontent.com/39303015/150502367-ada02f6e-6ae9-42f1-b933-970ccbb9fa9a.PNG)
 ![code 1](https://user-images.githubusercontent.com/39303015/150502371-831b8abc-970b-4933-b7d0-7e7ffc2dcbfb.PNG)
+
+![code 2](https://user-images.githubusercontent.com/39303015/150502367-ada02f6e-6ae9-42f1-b933-970ccbb9fa9a.PNG)
